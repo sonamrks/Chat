@@ -1,0 +1,149 @@
+
+body {
+font:12px arial;
+color: #222;
+text-align:left;
+padding:35px;
+background-color: #778899;}
+
+form, p, span {
+margin:0;
+padding:0; }
+
+#form1 p {
+text-align: left;
+padding-left: 0.5cm;
+}
+
+#form1 label {
+padding-left: 5px;
+width:55px;
+display: inline-block;
+}
+
+input { font:12px arial; }
+
+a {
+color:red;
+text-decoration:none; }
+
+
+#loginform, #loggedin, #wrapper2 {
+margin:0 auto;
+padding-bottom:25px;
+padding-left:25px;
+padding-right:25px;
+background:#d9d8d2;
+width:504px;
+border-style: solid;
+border-color: #000080; }
+
+#container{
+margin:0 auto;
+padding-bottom:45px;
+padding-top:5px;
+padding-left:25px;
+background:#d9d8d2;
+height:280px;
+width:280px;
+border-style: solid;
+border-color: #000080; }
+
+#container2{
+margin:0 auto;
+padding-bottom:45px;
+padding-top:5px;
+padding-left:25px;
+background:#d9d8d2;
+height:220px;
+width:350px;
+border-style: solid;
+border-color: #000080; }
+
+#wrapper{
+margin:0 auto;
+padding-bottom:25px;
+padding-left:25px;
+padding-right:25px;
+background:#d9d8d2;
+width:350px;
+border-style: solid;
+border-color: #000080; }
+
+#container h2, #container2 h2 {padding-left:35px;}
+
+#submit1 {margin-left:100px;}
+
+#submit2 {margin-left:150px;}
+
+#loginform { padding-top:18px; }
+
+#loginform p { margin: 5px; }
+
+.D1{
+height:60px;
+width:849px;
+float:left;}
+ul{color:rgb(255,255,0);font-style:italic;font-family:cambria}
+.i{font-size:17px;font-weight:bold;display:inline;padding:10px;}
+.s1{padding-left:245px}
+a{color:rgb(255,255,0);text-decoration: none}
+a:hover{color:violet;}
+
+#chatbox {
+text-align:left;
+margin:0 auto;
+margin-bottom:25px;
+padding:10px;
+background:#fff;
+height:270px;
+width:430px;
+border:1px solid #8a8982;
+overflow:auto; }
+
+#friendbox {
+text-align:left;
+margin-left:10px;
+margin-bottom:25px;
+padding-top:15px;
+padding-bottom:15px;
+padding-left:20px;
+background:#fff;
+height:200px;
+width:200px;
+border:1px solid #8a8982;
+overflow:auto; }
+
+#usermsg {
+width:395px;
+border:1px solid #afaca1; }
+
+#submit { width: 60px; }
+
+.error { padding-left:65px; color: #ff0000; }
+
+.error1{ padding-left:113px; color: #ff0000; }
+
+.register { color: #ff0000; margin-left:550px;}
+
+#menu { padding:12.5px 25px 12.5px 25px; }
+
+#add{ margin-left:80px; }
+
+#list { padding:12.5px 25px 12.5px 60px;}
+
+#list h2 {padding-left:65px;}
+
+#messagebox{ padding:12.5px 25px 12.5px 25px;}
+
+#addform{ padding:50px 20px 2px 0px; }
+
+#exit{ color:red;}
+#back{ color:blue;}
+
+
+.welcome { padding-top:10px; float:left; }
+
+.logout { float:right; }
+
+#msgln { color:blue; }
