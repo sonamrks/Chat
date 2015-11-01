@@ -1,0 +1,20 @@
+SQL statements
+================
+
+CREATE TABLE Users (
+fullname VARCHAR(20),
+username VARCHAR(20),
+password VARCHAR(20),
+flag int);
+
+
+CREATE TABLE Friends (
+user VARCHAR(20),
+fname VARCHAR(20));
+
+
+Drop table Users;
+
+
+Drop table Friends;
+
